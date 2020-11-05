@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<p align="center">
+	<a href="https://github.com/likerRr"><img src="https://img.shields.io/github/followers/likerRr.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://twitter.com/likerR_r"><img src="https://img.shields.io/twitter/follow/likerR_r?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/alizurchik"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
+
+Watch me on [youtube](https://www.youtube.com/channel/UCNTEGCbMwwuStm152h5anZQ) and [twitch](https://www.twitch.tv/likerrr)
+
 <!--
 **likerRr/likerRr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
